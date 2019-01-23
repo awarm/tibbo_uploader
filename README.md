@@ -3,6 +3,8 @@
 
 Скачивать по ссылке - https://github.com/awarm/tibbo_uploader/raw/master/exec/tibbo_uploader
 
+wget -c https://github.com/awarm/tibbo_uploader/raw/master/exec/tibbo_uploader
+
 После скачивания выполнить комманду 
 
 chmod +x ./tibbo_uploader
