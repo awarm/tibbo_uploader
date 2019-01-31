@@ -6,7 +6,7 @@
 * Linux - https://github.com/awarm/tibbo_uploader/raw/master/exec/tibbo_uploader
 * Windows - https://github.com/awarm/tibbo_uploader/raw/master/exec/tibbo_uploader.exe
 
-После скачивания выполнить комманду 
+После скачивания на Linux выполнить комманду 
 
 chmod +x ./tibbo_uploader
 
