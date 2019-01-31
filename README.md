@@ -1,9 +1,10 @@
 # tibbo_uploader
 ПО для программирования устройств tibbo из линукса.
 
-Скачивать по ссылке - https://github.com/awarm/tibbo_uploader/raw/master/exec/tibbo_uploader
+Скачивать по ссылке:
 
-wget -c https://github.com/awarm/tibbo_uploader/raw/master/exec/tibbo_uploader
+* Linux - https://github.com/awarm/tibbo_uploader/raw/master/exec/tibbo_uploader
+* Windows - https://github.com/awarm/tibbo_uploader/raw/master/exec/tibbo_uploader.exe
 
 После скачивания выполнить комманду 
 
